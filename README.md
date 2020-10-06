@@ -5,3 +5,4 @@ https://github.com/OpHaCo/hoverbot
 https://github.com/NiklasFauth/hoverboard-firmware-hack
 https://hackaday.io/project/14499-low-cost-two-wheels-drive-hoverboard-hack
 https://github.com/sigmaai/self-driving-golf-cart
+https://msadowski.github.io/livox-mid40-review/
